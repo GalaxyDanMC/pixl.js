@@ -75,6 +75,4 @@
 #endif
 //Game
 #define APP_GAME_ENABLE
-
-
 #endif
